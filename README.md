@@ -59,6 +59,7 @@ The workflow includes:
 
 ## Project Screenshot
 
-<img width="1891" height="892" alt="Screenshot 2026-07-10 125724" src="https://github.com/user-attachments/assets/6e7c3c91-08c4-4e69-b6c1-6fa43e6ef0bf" />
+<img width="1896" height="878" alt="Screenshot 2026-07-10 133437" src="https://github.com/user-attachments/assets/2eccacc8-2f0c-4c3f-98d0-7e9c964896a8" />
+
 
 ---
